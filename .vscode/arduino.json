@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "two_motor_control.ino",
+    "output": "build/"
+}

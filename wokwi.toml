@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = 'build/two_motor_control.ino.hex'
+elf = 'build/two_motor_control.ino.elf'
+gdbServerPort=3333
